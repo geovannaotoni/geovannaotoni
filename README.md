@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Ei 👋, eu sou a Geovanna</h1>
+<h2 align="center">Ei 👋, eu sou a Geovanna</h2>
 <h3 align="center">Uma estudante de desenvolvimento web na Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
