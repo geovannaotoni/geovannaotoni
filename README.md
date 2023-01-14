@@ -36,11 +36,17 @@
           
 
 ##
-<p>
+<p> 
 <h3 align="left">📊 Minhas Estatísticas:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni" /></p>
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni" /></p>      
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni" /></p>
+<!--         
+<div>
+<a href="https://github.com/geovannaotoni">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannaotoni&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div> --> 
 
 
 <!--
