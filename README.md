@@ -7,18 +7,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+##
+<h3 align="left">💬 Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/geovanna-otoni-325a81180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geovanna-otoni-325a81180" height="30" width="40" /></a>
+<!--          
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/geovanna-otoni-325a81180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geovanna-otoni-325a81180" height="30" width="40" /></a> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+-->
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/geovannaotoni)](https://github.com/geovannaotoni)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanna-otoni-325a81180/)](https://www.linkedin.com/in/geovanna-otoni-325a81180/)     
+          
 </p>
 
 ##
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
+      
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://simpleicons.org/icons/github.svg" title = "GITHUB"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "BASH"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
 <code><img width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title = "VS CODE"/></code>
@@ -27,9 +37,10 @@
 
 ##
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact" alt="geovannaotoni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en" alt="geovannaotoni" /></p>
+<h3 align="left">📊 Minhas Estatísticas:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni" /></p>
+<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni" /></p>
 
 
 <!--
