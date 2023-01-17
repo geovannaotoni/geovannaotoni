@@ -17,7 +17,7 @@
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/geovannaotoni)](https://github.com/geovannaotoni)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanna-otoni/)](https://www.linkedin.com/in/geovanna-otoni-325a81180/)     
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanna-otoni/)](https://www.linkedin.com/in/geovanna-otoni/)     
           
 </p>
 
