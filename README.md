@@ -3,7 +3,7 @@
 <h2 align="center">Ei 👋, meu nome é Geovanna</h2>
 <h3 align="center">Eu sou uma estudante de desenvolvimento web</h3> -->
 
-<br> Olá! Meu nome é **Geovanna Otoni**, tenho 24 anos e sou de Belo Horizonte (Minas Gerais). Atualmente sou uma pessoa **Desenvolvedora de Software** em construção pela <a href="https://github.com/betrybe">Trybe<a/>. 
+<br> Olá! Meu nome é **Geovanna Otoni**, tenho 24 anos e sou de Belo Horizonte (Minas Gerais). Sou Engenheira Química formada pela Universidade Federal de Minas Gerais (2016-2021). Atualmente sou uma pessoa **Desenvolvedora de Software** em construção pela <a href="https://github.com/betrybe">Trybe<a/>. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
 
