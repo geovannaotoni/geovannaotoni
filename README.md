@@ -41,8 +41,8 @@
 <h3 align="left">📊 Minhas Estatísticas:</h3>
 <p align="center">
       <a href="https://github.com/geovannaotoni">
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni"/>
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni"/>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni"/>
+            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni"/>
       </a>
 </p>
 <!--         
