@@ -20,8 +20,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanna-otoni/)](https://www.linkedin.com/in/geovanna-otoni/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovannaotoni@gmail.com)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&https://geovannaotoni.github.io/)](https://geovannaotoni.github.io/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/geovannaotoni/resume)
+<!-- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white&https://geovannaotoni.github.io/)](https://geovannaotoni.github.io/) -->
 </p>
 
 ##
