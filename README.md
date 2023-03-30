@@ -34,6 +34,7 @@
 <code><img width="40px" src="https://simpleicons.org/icons/github.svg" title = "GITHUB"/></code> 
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title = "JEST"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title = "NODE JS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "BASH"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
 <code><img width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title = "VS CODE"/></code>
