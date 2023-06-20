@@ -7,7 +7,6 @@
 <p> Tenho 24 anos e sou de Belo Horizonte (Minas Gerais). Sou Engenheira Química formada pela Universidade Federal de Minas Gerais e atualmente sou uma pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
-
 ##
 <h3 align="left">💬 Conecte-se comigo:</h3>
 <p align="left">
@@ -39,6 +38,7 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title = "NODE JS"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
 <code><img width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title = "VS CODE"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title = "ESLINT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title = "LINUX"/></code>
           
 
