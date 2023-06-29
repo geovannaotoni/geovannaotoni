@@ -3,7 +3,7 @@
 <h2 align="center">Ei 👋, meu nome é Geovanna</h2>
 <h3 align="center">Eu sou uma estudante de desenvolvimento web</h3> -->
 <!-- <h2 align="left">👋 Olá! Meu nome é Geovanna Otoni</h2> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=3379B4&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
 <p> Tenho 24 anos e sou de Belo Horizonte (Minas Gerais). Sou Engenheira Química formada pela Universidade Federal de Minas Gerais e atualmente sou uma pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
@@ -30,16 +30,17 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://simpleicons.org/icons/github.svg" title = "GITHUB"/></code> 
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title = "JEST"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title = "REDUX"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title = "JEST"/></code>
 <code><img width="40px" src="https://api.iconify.design/logos/testing-library.svg" title = "TESTING LIBRARY"/></code>
 <code><img width="40px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" title = "VITE"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title = "ESLINT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain-wordmark.svg" title = "DOCKER"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" title = "DOCKER"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title = "NODE JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://simpleicons.org/icons/github.svg" title = "GITHUB"/></code> 
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
 <code><img width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title = "VS CODE"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title = "LINUX"/></code>
