@@ -9,6 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
 
 ##
+
+<h3 align="left">:globe_with_meridians: Portfólio:</h3>
+<p>Acesse meu portfólio pessoal aqui: <a href="https://geovannaotoni.vercel.app/">geovannaotoni.vercel.app/</a></p>
+
+##
 <h3 align="left">💬 Conecte-se comigo:</h3>
 <p align="left">
 <!--          
