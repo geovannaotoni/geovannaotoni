@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
 <p> Engenheira Química formada pela Universidade Federal de Minas Gerais e pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
+<p align="left">
+      <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Visitas">
+</p>
 
 ##
 
