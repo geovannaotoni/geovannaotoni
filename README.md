@@ -1,10 +1,5 @@
-
-<!--
-<h2 align="center">Ei 👋, meu nome é Geovanna</h2>
-<h3 align="center">Eu sou uma estudante de desenvolvimento web</h3> -->
-<!-- <h2 align="left">👋 Olá! Meu nome é Geovanna Otoni</h2> -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
-<p> Tenho 24 anos e sou de Belo Horizonte (Minas Gerais). Sou Engenheira Química formada pela Universidade Federal de Minas Gerais e atualmente sou uma pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
+<p> Engenheira Química formada pela Universidade Federal de Minas Gerais e pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Profile%20views&color=0e75b6&style=flat" alt="geovannaotoni" /> </p>
 
