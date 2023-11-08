@@ -45,11 +45,13 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title = "ESLINT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title = "BOOTSTRAP"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" title = "MATERIAL UI"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" title = "FIGMA"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=docker" title = "DOCKER"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" title = "NODE JS"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" title = "EXPRESS"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sequelize-Dark.svg" title = "SEQUELIZE"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" title = "POSTMAN"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" title = "GITHUB"/></code> 
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" title = "SLACK"/></code>
