@@ -37,6 +37,7 @@
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" title = "NEXT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vercel-Dark.svg" title = "VERCEL"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg" title = "REDUX"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jest.svg" title = "JEST"/></code>
 <code><img width="40px" src="https://api.iconify.design/logos/testing-library.svg" title = "REACT TESTING LIBRARY"/></code>
@@ -59,6 +60,9 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Light.svg" title = "LINUX"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" title = "UBUNTU"/></code>
 <code><img width="40px" src="https://api.iconify.design/logos/jwt-icon.svg" title = "JWT LIBRARY"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Maven-Dark.svg" title = "MAVEN"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Dark.svg" title = "SPRING"/></code>
 
 ##
 <h3 align="left">📊 Minhas Estatísticas:</h3>
