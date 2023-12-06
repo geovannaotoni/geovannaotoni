@@ -7,7 +7,7 @@
 
 ##
 
-<h3 align="left">:globe_with_meridians: Portfólio:</h3>
+<h3 align="left">🌐 Portfólio:</h3>
 <p>Acesse meu portfólio pessoal aqui: <a href="https://geovannaotoni.vercel.app/"><strong>geovannaotoni.vercel.app/</strong></a></p>
 
 ##
