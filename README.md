@@ -64,6 +64,7 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Maven-Dark.svg" title = "MAVEN"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Dark.svg" title = "SPRING"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MongoDB.svg" title = "MONGODB"/></code>
 
 ##
 <h3 align="left">📊 Minhas Estatísticas:</h3>
