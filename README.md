@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
-<p> Engenheira Química formada pela Universidade Federal de Minas Gerais e pessoa <strong>Desenvolvedora de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
+<p>Engenheira Química de formação, possuo experiência na área de Comercial/Operações em uma startup de tecnologia, período no qual descobri minha paixão por TI e decidi migrar em definitivo para essa área. Finalizei o curso de Desenvolvimento Web da escola de TI <a href="https://github.com/betrybe">Trybe<a/>, e adquiri conhecimentos de desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</strong>.
 
 <p align="left">
       <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Visitas">
@@ -34,6 +34,7 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" title = "TYPESCRIPT"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title = "C"/></code>
+<code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title = "C++"/></code>
 <code><img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" title = "NEXT"/></code>
