@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Geovanna+Otoni)](https://git.io/typing-svg)
-<p>Engenheira Química de formação, possuo experiência na área de Comercial/Operações em uma startup de tecnologia, período no qual descobri minha paixão por TI e decidi migrar em definitivo para essa área. Finalizei o curso de Desenvolvimento Web da escola de TI <a href="https://github.com/betrybe">Trybe<a/>, e adquiri conhecimentos de desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</strong>
+<p>Desenvolvedora de software com experiência em desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end.
+
+Possuo especializações em Desenvolvimento Web, Ciência de Dados e Computação em Nuvem, o que me proporciona uma visão abrangente do ciclo de desenvolvimento e das soluções tecnológicas.
+
+Tenho experiência com construção de interfaces, integração com APIs, lógica de negócios e boas práticas de engenharia de software, além de familiaridade com metodologias ágeis.
+
+Sou movida por aprendizado contínuo e apaixonada por tecnologia, sempre buscando evoluir tecnicamente e contribuir para a construção de soluções eficientes e de impacto.</strong>
 
 <p align="left">
       <img src="https://komarev.com/ghpvc/?username=geovannaotoni&label=Visitas">
