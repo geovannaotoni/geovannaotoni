@@ -72,14 +72,19 @@ Sou movida por aprendizado contínuo e apaixonada por tecnologia, sempre buscand
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Maven-Dark.svg" title = "MAVEN"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Spring-Dark.svg" title = "SPRING"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MongoDB.svg" title = "MONGODB"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Angular-Dark.svg" title = "ANGULAR"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/RedHat-Dark.svg" title = "REDHAT"/></code>
+
 
 ##
 <h3 align="left">📊 Minhas Estatísticas:</h3>
 <p align="left">
-<a href="https://github.com/geovannaotoni">
+<!-- <a href="https://github.com/geovannaotoni">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovannaotoni&show_icons=true&locale=en&layout=compact&theme=dark" alt="geovannaotoni"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovannaotoni&show_icons=true&locale=en&theme=dark" alt="geovannaotoni"/>
-</a>
+</a> -->
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geovannaotoni&theme=dark" alt="geovannaotoni"/>
+      <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geovannaotoni&theme=dark" alt="geovannaotoni"/>
 </p>
 <!--         
 <div>
